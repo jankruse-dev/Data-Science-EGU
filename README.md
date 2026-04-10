@@ -1,2 +1,4 @@
 # Data-Science-EGU
-Hier werden neue Dinge abgelegt werden damit Felix und ich gleichzeitig arbeiten können
+Aufbau von Hardware und Software für eine automatisierte Pflanzenbewässerung.
+## Ziel
+Aufbau einer Datengrundlage für die Auswertung im Rahmen der Mastervorlseung **Data Science**. 
