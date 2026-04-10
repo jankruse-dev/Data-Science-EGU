@@ -52,5 +52,3 @@ Idee, Microcontroller --> Strahlungsmessung, Temperatur und Feuchtigkeit
 ### Aufbau 
 Simulation mit Withdiode
 Pumpe oben auf den Deckel wenn es geht, damit Statischer Druck nicht Wasser durch Pumpe drückt --> Segger hat dafür ein Magnetventil
-
-Änderung für GitHub -> wurde jetzt nochmal geändert und muss gepullt werden
